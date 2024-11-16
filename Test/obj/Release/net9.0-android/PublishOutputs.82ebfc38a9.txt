@@ -1,0 +1,4 @@
+C:\Users\shuvo\source\repos\Test\Test\bin\Release\net9.0-android\publish\com.companyname.test-Signed.aab
+C:\Users\shuvo\source\repos\Test\Test\bin\Release\net9.0-android\publish\com.companyname.test.aab
+C:\Users\shuvo\source\repos\Test\Test\bin\Release\net9.0-android\publish\com.companyname.test-Signed.apk
+C:\Users\shuvo\source\repos\Test\Test\bin\Release\net9.0-android\publish\_Microsoft.Android.Resource.Designer.dll
